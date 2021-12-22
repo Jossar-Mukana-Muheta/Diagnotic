@@ -661,3 +661,16 @@
       display: block;
     }
   }
+
+  .reservation{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+}
+  
+.reservation a{
+  color: #f13a11;
+  font-size: 14px;
+}
